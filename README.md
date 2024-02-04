@@ -18,6 +18,6 @@ Feedback and Comments: I appreciate any feedback or comments on the task files a
 
 Contact Information: If you have any questions or need further clarification, you can reach out to me via my email: akankshapilli08@gmail.com.
 
-Acknowledgments: Thank you for the opportunity to participate in the EvolveIntern Internship program. I look forward to any feedback and guidance provided. Feel free to explore the repository and reach out if you have any questions or feedback. Happy designing!
+Acknowledgments: Thank you for the opportunity to participate in the CodersCave Internship program. I look forward to any feedback and guidance provided. Feel free to explore the repository and reach out if you have any questions or feedback. Happy designing!
 
 Best regards, Akanksha Pilli
